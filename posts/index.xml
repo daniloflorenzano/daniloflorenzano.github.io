@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Danilo Florenzano</title>
+    <link>https://daniloflorenzano.github.io/posts/</link>
+    <description>Recent content in Posts on Danilo Florenzano</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Fri, 24 Dec 2021 15:28:59 -0300</lastBuildDate><atom:link href="https://daniloflorenzano.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post Teste</title>
+      <link>https://daniloflorenzano.github.io/posts/mypost/</link>
+      <pubDate>Fri, 24 Dec 2021 15:28:59 -0300</pubDate>
+      
+      <guid>https://daniloflorenzano.github.io/posts/mypost/</guid>
+      
+        <description>Texto qualquer de um post qualquer</description>
+      
+    </item>
+    
+  </channel>
+</rss>
